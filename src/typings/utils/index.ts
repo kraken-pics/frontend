@@ -1,0 +1,1 @@
+export const BYTE_PER_KB: number = 1000;
